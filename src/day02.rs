@@ -157,7 +157,3 @@ fn aimed_result_to_move(res: &str) -> Result {
         _ => panic!("Invalid sign: {res}"),
     }
 }
-
-// X Lose
-// Y Draw
-// Z Win
